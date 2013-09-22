@@ -22,12 +22,12 @@
             </p>
             <p>
                 For ther developers who want to make this site more feature rich, large scaled, secured and more usuable can surely join this 
-                git repository. Your collaboration will make this site more attractive &amp; will help me to be more skilled on the tools behind it.
+                <a href="https://github.com/nuhil/thisdayinbangladesh" target="_blank">git repository</a>. Your collaboration will make this site more attractive &amp; will help me to be more skilled on the tools behind it.
             </p>
             <h3>What this site is made of?</h3>
             <p>
                 <a href="http://laravel.com/" target="_blank">Laravel4</a> PHP framework along with <a href="http://four.laravel.com/docs/eloquent" target="_blank">Eloquent</a> ORM, <a href="http://www.mysql.com/" target="_blank">mySQL</a> as DB, <a href="http://laravel.com/docs/templates" target="_blank">Blade</a> templating system, <a href="http://designmodo.github.io/Flat-UI/" target="_blank">Flat UI</a>, <a href="http://getbootstrap.com/" target="_blank">Twitter bootstrap</a>, <a href="http://jquery.com/" target="_blank">Jquery</a>, HTML &amp; 
-                CSS. It is being run from inside a <a href="http://www.ubuntu.com/" target="_blank">Ubuntu 12.04</a> LAMP server hosted in <a href="" target="_blank">Amazon</a>.
+                CSS. It is being run from inside a <a href="http://www.ubuntu.com/" target="_blank">Ubuntu 12.04</a> LAMP server hosted in <a href="http://aws.amazon.com/ec2/" target="_blank">Amazon</a>.
             </p>
             <h3>Contact?</h3>
             <p>nuhil@nuhil.net | <a href="http://nuhil.net" alt="nuhil.net" target="_blank">http://nuhil.net</a></p>

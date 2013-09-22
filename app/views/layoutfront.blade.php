@@ -4,6 +4,9 @@
     <meta charset="utf-8">
     <title>This day in history of Bangladesh :: আজকের দিনে বাংলাদেশ</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This day in Bangladesh. What happened in this day with Bangladesh. Today in Bangladesh. This day in history of Bangladesh." />
+    <meta name="keywords" content="This day in Bangladesh, Today in Bangladesh, History of Bangladesh, Time line of Bangladesh" />
+    <meta name="author" content="Nuhil Mehdy"/>     
 
     <!-- Loading Bootstrap -->
     <link href="{{ URL::asset('assets/bootstrap/css/bootstrap.css') }}" rel="stylesheet">
