@@ -1,1 +1,8 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+/app/config/app.php
+/app/config/database.php
+.DS_Store
 /nbproject/private/
