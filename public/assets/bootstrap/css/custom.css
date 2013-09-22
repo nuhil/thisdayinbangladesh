@@ -1,0 +1,66 @@
+h1 span.green {
+	color: #16A085;
+}
+
+.error {
+    color: #D35400;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.tb-date {
+	background: url(../../images/icons/date@2x.png) no-repeat;	
+	height: 200px;
+	text-align: center;
+}
+
+.tb-date h1 {
+	margin-left: -20px;
+	color: #FFFFFF;
+}
+
+.tb-date h2 {
+	position: relative;
+	margin-left: -20px;
+	margin-top: 50px;
+	font-size: 6em;	
+}
+
+.tb-talk-of-the-day img {
+	width: 45px;
+	height: 45px;
+	margin-right: 10px;
+}
+
+.date-picker {
+	width: 75px;
+}
+
+.month-picker {
+	width: 105px;
+}
+
+.tb-talk-of-the-day h3{
+	margin-top: 0px;
+}
+
+.tb-talk-of-the-day ul{
+	text-align: left;
+}
+
+.no-fact img {
+	width: 45px;
+	height: 45px;
+	margin-right: 10px;    
+}
+
+ul.tb-ul {
+	list-style: none;
+	margin: 0px;
+}
+
+ul.tb-ul li {
+	border-bottom: 2px solid #eff0f2;
+}
