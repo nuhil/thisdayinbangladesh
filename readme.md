@@ -1,21 +1,11 @@
-## Laravel PHP Framework
-
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
-
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+## thisdayinbangladesh
+#### What it is? 
+This is basically a self learning project which is also open source. Any one can contribute in this project development & can make this application real useful. 
+So far, there is no public database for the facts that are being happened in/about Bangladesh. This website will act as a fact book in which most important facts/events will be added with Tags & Category mapping. In future it will be helpful for knowledge seekers & who wants to know about every single past day of our country. 
+#### How to contribute? 
+You can can contribute either as an information provider or as a developer. If you want to add an important event/fact about our country that you think should be remembered for ever, then feel free to send an email to info@thisdayinbangladesh.com Please mention proper source of that information you want to be added here. 
+For ther developers who want to make this site more feature rich, large scaled, secured and more usuable can surely join this [git repository] (https://github.com/nuhil/thisdayinbangladesh). Your collaboration will make this site more attractive & will help me to be more skilled on the tools behind it. 
+#### What this site is made of? 
+[Laravel4] (http://laravel.com/) PHP framework along with [Eloquent] (http://four.laravel.com/docs/eloquent) ORM, [mySQL] (http://www.mysql.com/) as DB, [Blade] (http://laravel.com/docs/templates) templating system, [Flat UI] (http://designmodo.github.io/Flat-UI/), [Twitter bootstrap] (http://getbootstrap.com/), [Jquery] (http://jquery.com/), HTML & CSS. It is being run from inside a [Ubuntu 12.04] (http://www.ubuntu.com/) LAMP server hosted in [Amazon] (http://aws.amazon.com/ec2/). 
+#### Contact? 
+nuhil@nuhil.net | http://nuhil.net
