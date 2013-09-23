@@ -14,9 +14,9 @@ class FactController extends BaseController {
         foreach ($facts as $fact):
             $allFacts['facts'][$i] = $fact->toArray();
             $allFacts['facts'][$i]['types'] = $fact->types->toArray();
-        endforeach;
-        $i++;
-
+            $i++;
+        endforeach;       
+        
         $thisDay = array ('day' => $day, 'month' => date("F", mktime(0, 0, 0, $month, 10)));
         
         return View::make('eventlisting', array('facts' => $allFacts, 'today' => $thisDay));
